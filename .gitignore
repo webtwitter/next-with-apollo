@@ -1,0 +1,11 @@
+# build output
+dist
+.next
+
+# dependencies
+node_modules
+
+# logs
+*.log
+
+.DS_Store
